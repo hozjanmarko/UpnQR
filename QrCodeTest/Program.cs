@@ -8,6 +8,7 @@ namespace QrCodeTest
     {
         static void Main(string[] args)
         {
+            //potrebno zaradi kodiranj
             Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
 
             //Navidezni podatki
