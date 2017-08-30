@@ -1,0 +1,9 @@
+D:\DOTNET\UpnQR\UpnQR\bin\Debug\netstandard2.0\UpnQR.deps.json
+D:\DOTNET\UpnQR\UpnQR\bin\Debug\netstandard2.0\UpnQR.dll
+D:\DOTNET\UpnQR\UpnQR\obj\Debug\netstandard2.0\UpnQR.csprojResolveAssemblyReference.cache
+D:\DOTNET\UpnQR\UpnQR\obj\Debug\netstandard2.0\UpnQR.csproj.CoreCompileInputs.cache
+D:\DOTNET\UpnQR\UpnQR\obj\Debug\netstandard2.0\UpnQR.AssemblyInfoInputs.cache
+D:\DOTNET\UpnQR\UpnQR\obj\Debug\netstandard2.0\UpnQR.AssemblyInfo.cs
+D:\DOTNET\UpnQR\UpnQR\bin\Debug\netstandard2.0\UpnQR.pdb
+D:\DOTNET\UpnQR\UpnQR\obj\Debug\netstandard2.0\UpnQR.dll
+D:\DOTNET\UpnQR\UpnQR\obj\Debug\netstandard2.0\UpnQR.pdb

@@ -1,0 +1,13 @@
+D:\DOTNET\UpnQR\QrCodeTest\bin\Debug\netcoreapp2.0\QrCodeTest.deps.json
+D:\DOTNET\UpnQR\QrCodeTest\bin\Debug\netcoreapp2.0\QrCodeTest.runtimeconfig.json
+D:\DOTNET\UpnQR\QrCodeTest\bin\Debug\netcoreapp2.0\QrCodeTest.runtimeconfig.dev.json
+D:\DOTNET\UpnQR\QrCodeTest\bin\Debug\netcoreapp2.0\QrCodeTest.dll
+D:\DOTNET\UpnQR\QrCodeTest\bin\Debug\netcoreapp2.0\QrCodeTest.pdb
+D:\DOTNET\UpnQR\QrCodeTest\bin\Debug\netcoreapp2.0\UpnQR.dll
+D:\DOTNET\UpnQR\QrCodeTest\bin\Debug\netcoreapp2.0\UpnQR.pdb
+D:\DOTNET\UpnQR\QrCodeTest\obj\Debug\netcoreapp2.0\QrCodeTest.csprojResolveAssemblyReference.cache
+D:\DOTNET\UpnQR\QrCodeTest\obj\Debug\netcoreapp2.0\QrCodeTest.csproj.CoreCompileInputs.cache
+D:\DOTNET\UpnQR\QrCodeTest\obj\Debug\netcoreapp2.0\QrCodeTest.AssemblyInfoInputs.cache
+D:\DOTNET\UpnQR\QrCodeTest\obj\Debug\netcoreapp2.0\QrCodeTest.AssemblyInfo.cs
+D:\DOTNET\UpnQR\QrCodeTest\obj\Debug\netcoreapp2.0\QrCodeTest.dll
+D:\DOTNET\UpnQR\QrCodeTest\obj\Debug\netcoreapp2.0\QrCodeTest.pdb
